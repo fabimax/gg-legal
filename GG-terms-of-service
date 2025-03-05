@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - GoodGuilds</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 25px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+        h3 {
+            color: #3498db;
+            margin-top: 20px;
+        }
+        p, ul, ol {
+            margin-bottom: 15px;
+        }
+        ul, ol {
+            padding-left: 25px;
+        }
+        .last-updated {
+            font-style: italic;
+            color: #7f8c8d;
+            margin-bottom: 25px;
+        }
+        .contact {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-left: 3px solid #3498db;
+            margin: 20px 0;
+        }
+        .important {
+            background-color: #f8f9fa;
+            padding: 10px;
+            border-left: 3px solid #e74c3c;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service for GoodGuilds</h1>
+    <p class="last-updated"><strong>Last Updated:</strong> [Current Date]</p>
+
+    <h2>1. Introduction</h2>
+    <p>Welcome to GoodGuilds! These Terms of Service ("Terms") govern your access to and use of the GoodGuilds website, services, and applications (collectively, the "Services") provided by GoodGuilds ("we," "our," or "us").</p>
+    <p>By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the Services.</p>
+
+    <h2>2. Account Registration and Requirements</h2>
+    
+    <h3>2.1 Account Creation</h3>
+    <p>To use certain features of our Services, you must create an account. You can register either by:</p>
+    <ul>
+        <li>Providing an email address and creating a password</li>
+        <li>Using Twitter/X authentication</li>
+        <li>Using other supported social login providers</li>
+    </ul>
+    
+    <div class="important">
+        <p><strong>Email Requirement</strong>: When you register using Twitter/X or other social login providers, we request access to your email address. You acknowledge and agree that:</p>
+        <ul>
+            <li>Providing an email address is necessary for account security, recovery, and communications</li>
+            <li>Your email will be collected and used as described in our Privacy Policy</li>
+            <li>Providing false contact information violates these Terms</li>
+        </ul>
+    </div>
+
+    <h3>2.2 Account Responsibilities</h3>
+    <p>You are responsible for:</p>
+    <ul>
+        <li>Maintaining the confidentiality of your account credentials</li>
+        <li>All activities that occur under your account</li>
+        <li>Providing accurate and complete account information</li>
+        <li>Updating your information to keep it current</li>
+    </ul>
+    
+    <p>You agree not to:</p>
+    <ul>
+        <li>Create accounts through unauthorized means</li>
+        <li>Buy, sell, rent, or lease access to your account</li>
+        <li>Share your account credentials with others</li>
+        <li>Create more than one account per person</li>
+    </ul>
+
+    <h2>3. Guild Membership and Badge System</h2>
+    
+    <h3>3.1 Guild Creation and Management</h3>
+    <p>When creating and managing guilds, you agree to:</p>
+    <ul>
+        <li>Provide accurate information about your guild</li>
+        <li>Comply with all applicable laws regarding online communities</li>
+        <li>Manage your guild in accordance with these Terms</li>
+        <li>Take responsibility for activities occurring within your guild</li>
+    </ul>
+
+    <h3>3.2 Badge System</h3>
+    <p>When participating in our badge system, you agree that:</p>
+    <ul>
+        <li>Badges are granted at the discretion of badge issuers</li>
+        <li>We reserve the right to revoke badges that violate our policies</li>
+        <li>You will not create or distribute badges that contain inappropriate content</li>
+        <li>Badges displayed on your profile must comply with our content guidelines</li>
+    </ul>
+
+    <h2>4. User Conduct</h2>
+    <p>You agree not to:</p>
+    <ul>
+        <li>Violate any applicable laws or regulations</li>
+        <li>Infringe upon the rights of others</li>
+        <li>Post or transmit unauthorized commercial messages</li>
+        <li>Distribute malware or other harmful code</li>
+        <li>Interfere with the proper functioning of the Services</li>
+        <li>Access the Services through automated methods except as permitted by us</li>
+        <li>Create or distribute content that is harassing, abusive, or otherwise harmful</li>
+        <li>Impersonate others or provide false information</li>
+        <li>Use the Services for any illegal activities</li>
+    </ul>
+
+    <h2>5. User Content</h2>
+    
+    <h3>5.1 Content Ownership</h3>
+    <p>You retain ownership of the content you create, post, or share through our Services ("User Content"). By providing User Content, you grant us a worldwide, non-exclusive, royalty-free license to use, copy, modify, distribute, publish, and display such User Content in connection with providing and improving our Services.</p>
+
+    <h3>5.2 Content Guidelines</h3>
+    <p>All User Content must comply with these Terms and our Community Guidelines. We reserve the right to remove any User Content that violates these Terms or that we find objectionable for any reason, without prior notice.</p>
+
+    <h2>6. Communications</h2>
+    
+    <h3>6.1 Service Communications</h3>
+    <p>By creating an account, you consent to receive communications from us, including:</p>
+    <ul>
+        <li>Security alerts and notifications</li>
+        <li>Account verification messages</li>
+        <li>Guild membership and invitation notifications</li>
+        <li>Badge award notifications</li>
+        <li>Service announcements and updates</li>
+        <li>Response to your inquiries or requests</li>
+    </ul>
+    <p>You acknowledge that receiving these communications is essential for using our Services, and they cannot be opted out of while maintaining an active account.</p>
+
+    <h3>6.2 Marketing Communications</h3>
+    <p>We may also send you:</p>
+    <ul>
+        <li>Newsletters</li>
+        <li>Promotional offers</li>
+        <li>Feature announcements</li>
+        <li>Survey requests</li>
+    </ul>
+    <p>You can opt out of these marketing communications at any time through your account settings or by following the unsubscribe instructions provided in each communication.</p>
+
+    <h2>7. Social Login and Third-Party Services</h2>
+    
+    <h3>7.1 Twitter/X Integration</h3>
+    <p>When you connect your Twitter/X account to our Services:</p>
+    <ul>
+        <li>You agree to comply with Twitter/X's Terms of Service</li>
+        <li>You authorize us to access your Twitter/X information as described in our Privacy Policy</li>
+        <li>You understand we collect your email address associated with your Twitter/X account</li>
+        <li>You acknowledge this connection is subject to Twitter/X's policies and may be revoked if either you or Twitter/X terminates this access</li>
+    </ul>
+
+    <h3>7.2 Other Third-Party Services</h3>
+    <p>Our Services may contain links to or integrations with third-party services. We are not responsible for the content or practices of these third parties. Your interactions with any third-party service are governed by their respective terms and privacy policies.</p>
+
+    <h2>8. API and Developer Access</h2>
+    
+    <h3>8.1 API Usage</h3>
+    <p>When using our API, you agree to:</p>
+    <ul>
+        <li>Comply with any rate limits and API documentation</li>
+        <li>Not attempt to circumvent any access restrictions</li>
+        <li>Properly authenticate all API requests</li>
+        <li>Not use our API for any purpose that violates these Terms</li>
+    </ul>
+
+    <h3>8.2 Badge Issuers</h3>
+    <p>If you register as a badge issuer, you:</p>
+    <ul>
+        <li>Are responsible for the badges you create and assign</li>
+        <li>Must comply with additional badge issuer guidelines</li>
+        <li>Agree to only assign badges for legitimate purposes</li>
+        <li>Understand that we may revoke your badge issuer privileges for violations of these Terms</li>
+    </ul>
+
+    <h2>9. Termination</h2>
+    <p>We reserve the right to suspend or terminate your access to our Services, without prior notice or liability, for any reason whatsoever, including if you breach these Terms.</p>
+    <p>Upon termination:</p>
+    <ul>
+        <li>Your right to use the Services will cease immediately</li>
+        <li>Your account information will be handled as described in our Privacy Policy</li>
+        <li>Sections of these Terms that by their nature should survive termination shall survive</li>
+    </ul>
+
+    <h2>10. Disclaimers</h2>
+    <p>The Services are provided "as is" and "as available" without warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, or non-infringement.</p>
+    <p>We do not guarantee that:</p>
+    <ul>
+        <li>The Services will meet your requirements</li>
+        <li>The Services will be uninterrupted, timely, secure, or error-free</li>
+        <li>The results from using the Services will be accurate or reliable</li>
+    </ul>
+
+    <h2>11. Limitation of Liability</h2>
+    <p>To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from:</p>
+    <ul>
+        <li>Your use or inability to use the Services</li>
+        <li>Any unauthorized access to or use of our servers or any information stored therein</li>
+        <li>Any interruption or cessation of transmission to or from the Services</li>
+        <li>Any bugs, viruses, or other harmful code that may be transmitted through the Services</li>
+    </ul>
+
+    <h2>12. Changes to These Terms</h2>
+    <p>We may revise these Terms at any time. The most current version will always be on our website. By continuing to access or use our Services after revisions become effective, you agree to be bound by the revised Terms.</p>
+
+    <h2>13. Governing Law</h2>
+    <p>These Terms shall be governed by the laws of Italy, without regard to its conflict of law principles.</p>
+
+    <h2>14. Consent to Electronic Communications</h2>
+    <p>By using our Services, you consent to receiving electronic communications from us. These communications may include notices about your account, confirmations, and other information concerning or related to the Services.</p>
+
+    <h2>15. Contact Us</h2>
+    <div class="contact">
+        <p>If you have any questions about these Terms, please contact us at:</p>
+        <p>Email: <a href="mailto:admin@goodguilds.com">admin@goodguilds.com</a></p>
+    </div>
+</body>
+</html>
